@@ -6,6 +6,10 @@ A lightweight vanilla JavaScript library for judging.https://tonicdev.com/trigki
 ![bandge](https://david-dm.org/hawx1993/judge.svg)
 ![](https://img.shields.io/github/stars/hawx1993/judge.svg)
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/gWs9P5H4YpntyAR6x1qG5EkX/hawx1993/judge'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/gWs9P5H4YpntyAR6x1qG5EkX/hawx1993/judge.svg' />
+</a>
+
 # Features
 
 - 没有任何依赖
